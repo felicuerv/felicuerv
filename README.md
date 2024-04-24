@@ -12,7 +12,7 @@ I'm Felipe, a 20 years old web developer from Argentina 🇦🇷.
 - 👨‍💻 Python, JavaScript, C++
 - ⚙️ React
 - 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL
+- 💽 Nodejs
 
 ## Contact
 
