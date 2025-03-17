@@ -9,9 +9,9 @@ I'm Felipe, a 21 years old web developer from Argentina 🇦🇷.
 - ⏰ Full time
 
 ## Skills
-- 👨‍💻 Python, JavaScript, C++
+- 👨‍💻 Python, JavaScript.
 - ⚙️ React
-- 👁️ SASS, CSS, Stylus
+- 👁️ SASS, CSS.
 - 💽 Nodejs
 
 ## Contact
