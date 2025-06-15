@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tu-sitio-web.com">🌐 Sitio Web</a> •
-  <a href="[(https://www.linkedin.com/in/felicuervo/)]">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/felicuervo/">LinkedIn</a> •
   <a href="mailto:felicuervo5@gmail.com">Email</a> •
 </p>
 
@@ -65,7 +64,7 @@ Soy un desarrollador Full Stack con experiencia en construcción de aplicaciones
 Si tenés una idea, un proyecto, o querés contratar mis servicios, no dudes en escribirme. ¡Estoy abierto a colaboraciones!
 
 📩 **[felicuervo5@gmail.com](mailto:felicuervo5@gmail.com)**  
-🤝 También podés encontrarme en [LinkedIn]((https://www.linkedin.com/in/felicuervo/))
+🤝 También podés encontrarme en [LinkedIn](https://www.linkedin.com/in/felicuervo/)
 
 ---
 
